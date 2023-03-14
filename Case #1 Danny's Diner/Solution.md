@@ -2,8 +2,9 @@
 
 ## Solution
 
+View the complete syntax [here](https://github.com/kartikrao24/8-week-sql-challenge/blob/main/Case%20%231%20Danny's%20Diner/Sql%20Syntax/Danny's%20Diner.sql).
 
-
+***
 
 ### 1. What is the total amount each customer spent at the restaurant?
 
